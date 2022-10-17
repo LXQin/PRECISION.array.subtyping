@@ -37,7 +37,7 @@ From an `R` session, type:
 
 ```
 require(devtools)
-install_github("LXQin/PRECISION.array.subtyping-Rpackage") 
+install_github("LXQin/PRECISION.array.subtyping") 
 ```
 
 
