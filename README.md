@@ -43,7 +43,7 @@ install_github("LXQin/PRECISION.array.subtyping")
 
 # Demo
 
-Please check the user's guide for the detailed instructions on how to use the functions in the package. You may also run the following code in the `R` session:
+Please check the [user's guide](./PRECISION.array.subtyping_0.99.0.pdf) for the detailed instructions on how to use the functions in the package. You may also run the following code in the `R` session:
 
 ```
 library(PRECISION.array.subtyping)
