@@ -1,0 +1,13 @@
+Package: PRECISION.array.subtyping
+Type: Package
+Title: On Data Normalization for Tumor Subtyping with microRNA data
+Version: 0.99.0
+Date: 2020-10-17
+Author: Becky Wing-Yan Yuen, Yilin Wu, Yingying Wei, Li-Xuan Qin
+Maintainer: Becky Wing-Yan Yuen <wyyuen@terpmail.umd.edu>
+Description: PRECISION.array.subtyping provides the function for normalization, batch effect correction, and clustering workflow on microRNA data that we implemented in our manuscript. 
+Depends: R (>= 3.5.0)
+License: GPL 3
+Imports: sva, vsn, preprocessCore, cluster, fpc, sparcl, som, mclust
+Keywords: MicroRNA experiments; Batch effects; Normalization; Clustering; Integrative analysis
+RoxygenNote: 7.2.1
